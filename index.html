@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games</title>
+    <meta name="description"
+        content="Descubra as vantagens e desvantagens entre mídia física e mídia digital, compare preços e veja onde comprar jogos com entrega rápida na GigaTech Games." />
+    <link rel="canonical" href="https://gigatech.com.br/midia-fisica-ou-digital" />
+
+    <style>
+        :root {
+            --bg: #090d16;
+            --bg-card: #111827;
+            --bg-card-2: #172033;
+            --text: #f3f6fc;
+            --muted: #9fb0cc;
+            --primary: #00e5ff;
+            --secondary: #7c3aed;
+            --accent: #10b981;
+            --border: rgba(255, 255, 255, 0.09);
+            --radius: 16px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: radial-gradient(circle at top right, rgba(124, 58, 237, 0.18), transparent 40%),
+                radial-gradient(circle at top left, rgba(0, 229, 255, 0.14), transparent 40%),
+                var(--bg);
+            color: var(--text);
+            line-height: 1.65;
+        }
+
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        .container {
+            width: min(1120px, 92%);
+            margin: 0 auto;
+        }
+
+        /* Topbar & Header */
+        .topbar {
+            background: rgba(0, 229, 255, 0.08);
+            border-bottom: 1px solid var(--border);
+            padding: 10px 0;
+            font-size: 0.9rem;
+            text-align: center;
+            color: #d8f8ff;
+        }
+
+        .coupon-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: var(--bg-card-2);
+            border: 1px dashed var(--primary);
+            color: var(--primary);
+            font-weight: 700;
+            padding: 3px 10px;
+            border-radius: 999px;
+            cursor: pointer;
+            margin: 0 6px;
+            transition: transform 0.15s ease, background 0.2s ease;
+        }
+
+        .coupon-pill:hover {
+            transform: scale(1.03);
+            background: rgba(0, 229, 255, 0.15);
+        }
+
+        header {
+            position: sticky;
+            top: 0;
+            z-index: 20;
+            backdrop-filter: blur(12px);
+            background: rgba(9, 13, 22, 0.82);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .nav {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 16px 0;
+            gap: 16px;
+            flex-wrap: wrap;
+        }
+
+        .logo {
+            font-size: 1.35rem;
+            font-weight: 800;
+            letter-spacing: -0.02em;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .logo span {
+            color: var(--primary);
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 20px;
+            font-size: 0.95rem;
+            color: var(--muted);
+            flex-wrap: wrap;
+        }
+
+        .nav-links a:hover {
+            color: var(--text);
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            padding: 12px 20px;
+            border-radius: 12px;
+            font-weight: 700;
+            font-size: 0.95rem;
+            border: none;
+            cursor: pointer;
+            transition: transform 0.15s ease, opacity 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .btn:hover {
+            transform: translateY(-1px);
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--primary), #38bdf8);
+            color: #041018;
+            box-shadow: 0 8px 24px rgba(0, 229, 255, 0.22);
+        }
+
+        .btn-secondary {
+            background: var(--bg-card-2);
+            color: var(--text);
+            border: 1px solid var(--border);
+        }
+
+        /* Hero */
+        .hero {
+            padding: 56px 0 40px;
+            display: grid;
+            grid-template-columns: 1.3fr 0.9fr;
+            gap: 28px;
+            align-items: center;
+        }
+
+        .badge {
+            display: inline-block;
+            font-size: 0.8rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            color: var(--primary);
+            background: rgba(0, 229, 255, 0.12);
+            border: 1px solid rgba(0, 229, 255, 0.28);
+            padding: 6px 12px;
+            border-radius: 999px;
+            margin-bottom: 14px;
+        }
+
+        h1 {
+            font-size: clamp(2rem, 4vw, 3rem);
+            line-height: 1.15;
+            letter-spacing: -0.03em;
+            margin-bottom: 16px;
+        }
+
+        .hero p {
+            color: var(--muted);
+            font-size: 1.05rem;
+            margin-bottom: 22px;
+        }
+
+        .hero-actions {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            margin-bottom: 22px;
+        }
+
+        .persona-box {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 18px;
+        }
+
+        .persona-switch {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 12px;
+            flex-wrap: wrap;
+        }
+
+        .tab-btn {
+            padding: 7px 14px;
+            border-radius: 999px;
+            border: 1px solid var(--border);
+            background: var(--bg-card-2);
+            color: var(--muted);
+            font-size: 0.85rem;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        .tab-btn.active {
+            background: var(--secondary);
+            color: #fff;
+            border-color: transparent;
+        }
+
+        .highlight-card {
+            background: linear-gradient(160deg, var(--bg-card-2), var(--bg-card));
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 24px;
+        }
+
+        .highlight-card h2 {
+            font-size: 1.2rem;
+            margin-bottom: 12px;
+        }
+
+        .stat-list {
+            list-style: none;
+            display: grid;
+            gap: 12px;
+        }
+
+        .stat-list li {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 12px 14px;
+        }
+
+        .stat-list strong {
+            display: block;
+            color: var(--primary);
+            font-size: 0.95rem;
+        }
+
+        .stat-list span {
+            color: var(--muted);
+            font-size: 0.9rem;
+        }
+
+        /* Sections */
+        section {
+            padding: 44px 0;
+        }
+
+        .section-header {
+            margin-bottom: 24px;
+        }
+
+        .section-header h2 {
+            font-size: clamp(1.5rem, 2.8vw, 2.1rem);
+            letter-spacing: -0.02em;
+            margin-bottom: 8px;
+        }
+
+        .section-header p {
+            color: var(--muted);
+        }
+
+        /* Article & Comparison */
+        .article-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 28px;
+            margin-bottom: 24px;
+        }
+
+        .article-card p+p {
+            margin-top: 14px;
+        }
+
+        .cta-banner {
+            margin-top: 22px;
+            background: rgba(16, 185, 129, 0.1);
+            border: 1px solid rgba(16, 185, 129, 0.3);
+            border-radius: 14px;
+            padding: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 16px;
+            flex-wrap: wrap;
+        }
+
+        .grid-2 {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+
+        .card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 22px;
+        }
+
+        .card h3 {
+            font-size: 1.15rem;
+            margin-bottom: 10px;
+        }
+
+        .card p,
+        .card li {
+            color: var(--muted);
+            font-size: 0.95rem;
+        }
+
+        .card ul {
+            padding-left: 18px;
+            display: grid;
+            gap: 8px;
+        }
+
+        /* Newsletter / WhatsApp & Discord */
+        .capture-box {
+            background: linear-gradient(135deg, rgba(124, 58, 237, 0.2), rgba(0, 229, 255, 0.12));
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 28px;
+            display: grid;
+            grid-template-columns: 1.2fr 1fr;
+            gap: 24px;
+            align-items: center;
+        }
+
+        .form-row {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        input[type="email"] {
+            flex: 1;
+            min-width: 220px;
+            padding: 12px 14px;
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            background: var(--bg);
+            color: var(--text);
+            font-size: 0.95rem;
+        }
+
+        .feedback {
+            margin-top: 10px;
+            font-size: 0.9rem;
+            color: var(--accent);
+            min-height: 22px;
+        }
+
+        footer {
+            border-top: 1px solid var(--border);
+            padding: 28px 0 40px;
+            color: var(--muted);
+            font-size: 0.9rem;
+        }
+
+        .footer-inner {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        @media (max-width: 860px) {
+
+            .hero,
+            .grid-2,
+            .grid-3,
+            .capture-box {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="topbar">
+        ⚡ Pagamento via Pix com chave digital na hora + cupom
+        <button class="coupon-pill" type="button" onclick="copyCoupon()">
+            GIGAGAMER10 <span id="copy-label">(copiar)</span>
+        </button>
+        na primeira compra!
+    </div>
+
+    <header>
+        <div class="container nav">
+            <a href="#topo" class="logo">🎮 GigaTech <span>Games</span></a>
+            <nav class="nav-links">
+                <a href="#guia">Guia: Física vs Digital</a>
+                <a href="#topicos">Guias & Setup</a>
+                <a href="#ofertas-rapidas">Vídeos & Ofertas</a>
+                <a href="#comunidade">Alertas & Cupons</a>
+            </nav>
+            <a href="#ofertas-rapidas" class="btn btn-primary">Ver Catálogo</a>
+        </div>
+    </header>
+
+    <main id="topo">
+        <div class="container">
+            <section class="hero">
+                <div>
+                    <span class="badge">Loja Virtual • Jogos, Consoles & Periféricos</span>
+                    <h1>Mídia Física ou Jogo Digital: Qual Vale Mais a Pena?</h1>
+                    <p id="personalized-copy">
+                        Quer jogar mais gastando menos? Compare mídia física e digital e aproveite chaves com entrega
+                        imediata e desconto no Pix na GigaTech Games!
+                    </p>
+
+                    <div class="hero-actions">
+                        <a href="#guia" class="btn btn-primary">Ler Comparativo Completo</a>
+                        <button type="button" class="btn btn-secondary" onclick="copyCoupon()">
+                            Usar Cupom GIGAGAMER10
+                        </button>
+                    </div>
+
+                    <div class="persona-box">
+                        <div class="persona-switch">
+                            <button type="button" class="tab-btn active" id="btn-casual" onclick="setPersona('casual')">
+                                ⚡ Perfil Jogador Casual / Custo-Benefício
+                            </button>
+                            <button type="button" class="tab-btn" id="btn-collector" onclick="setPersona('collector')">
+                                🏆 Perfil Colecionador
+                            </button>
+                        </div>
+                        <p id="persona-note" style="font-size: 0.9rem; color: var(--muted);">
+                            Foco em ativação imediata, promoções frequentes e economia no Pix para aproveitar mais jogos
+                            no PC e no console.
+                        </p>
+                    </div>
+                </div>
+
+                <aside class="highlight-card">
+                    <h2>Por que escolher a GigaTech Games?</h2>
+                    <ul class="stat-list">
+                        <li>
+                            <strong>🔑 Entrega Digital Imediata</strong>
+                            <span>Comprou, pagou via Pix e recebeu sua chave digital na hora para baixar sem esperar
+                                frete.</span>
+                        </li>
+                        <li>
+                            <strong>📦 Mídia Física & Hardware</strong>
+                            <span>Jogos em disco, consoles, periféricos e acessórios com preço acessível e envio
+                                rápido.</span>
+                        </li>
+                        <li>
+                            <strong>💬 Suporte Claro e Direto</strong>
+                            <span>Passo a passo simples para ativar chaves e tirar dúvidas sem enrolação.</span>
+                        </li>
+                    </ul>
+                </aside>
+            </section>
+
+            <section id="guia">
+                <div class="section-header">
+                    <h2>Análise Completa: Mídia Física vs. Mídia Digital</h2>
+                    <p>Descubra qual formato combina mais com o seu estilo de jogo e orçamento.</p>
+                </div>
+
+                <article class="article-card">
+                    <p>
+                        Na hora de garantir aquele lançamento tão esperado, surge a dúvida: comprar o disco físico ou
+                        apostar na mídia digital? Cada formato tem vantagens claras dependendo do seu perfil de jogador.
+                    </p>
+                    <p>
+                        Os jogos digitais ganham na praticidade: você compra, recebe o código na hora e já começa a
+                        baixar sem esperar frete ou sair de casa. Além disso, as mídias digitais oferecem ativação
+                        imediata, zero espera de frete e promoções relâmpago frequentes.
+                    </p>
+                    <p>
+                        Já a mídia física é ideal para quem gosta de colecionar caixinhas, emprestar jogos para amigos
+                        ou revender o título depois de zerar para recuperar parte do investimento.
+                    </p>
+                    <p>
+                        Na <strong>GigaTech Games</strong>, você encontra as melhores ofertas nos dois formatos com
+                        pagamento rápido via Pix. Confira nosso catálogo e escolha o seu próximo jogo!
+                    </p>
+
+                    <div class="cta-banner">
+                        <div>
+                            <strong>Pronto para garantir seu próximo jogo?</strong>
+                            <p style="color: var(--muted); font-size: 0.92rem;">
+                                Acesse agora o catálogo da GigaTech Games, use o cupom <strong>GIGAGAMER10</strong> e
+                                garanta seu próximo jogo com entrega imediata!
+                            </p>
+                        </div>
+                        <button type="button" class="btn btn-primary" onclick="copyCoupon()">
+                            Copiar GIGAGAMER10
+                        </button>
+                    </div>
+                </article>
+
+                <div class="grid-2">
+                    <div class="card">
+                        <h3>💻 Jogo Digital</h3>
+                        <ul>
+                            <li>Chave digital enviada na hora após confirmação via Pix.</li>
+                            <li>Sem esperar frete ou deslocamento.</li>
+                            <li>Promoções frequentes com ótimo custo-benefício.</li>
+                            <li>Ideal para quem quer jogar imediatamente no PC ou console.</li>
+                        </ul>
+                    </div>
+                    <div class="card">
+                        <h3>💿 Mídia Física</h3>
+                        <ul>
+                            <li>Perfeita para colecionadores que valorizam a caixinha na estante.</li>
+                            <li>Permite emprestar para amigos.</li>
+                            <li>Possibilidade de revender após zerar para abater custos.</li>
+                            <li>Ótima opção para presentes e edições especiais.</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <section id="topicos">
+                <div class="section-header">
+                    <h2>Outros Guias da GigaTech Games</h2>
+                    <p>Conteúdos pensados para ajudar você a montar seu setup e escolher bem sem gastar demais.</p>
+                </div>
+
+                <div class="grid-3">
+                    <div class="card">
+                        <h3>PC Sem Placa Dedicada</h3>
+                        <p>Os 7 melhores jogos leves para rodar bem e manter a diversão em dia no notebook ou PC de
+                            entrada.</p>
+                    </div>
+                    <div class="card">
+                        <h3>Headset Custo-Benefício</h3>
+                        <p>Como escolher um headset com áudio limpo, microfone decente e conforto para longas sessões.
+                        </p>
+                    </div>
+                    <div class="card">
+                        <h3>Setup Gastando Pouco</h3>
+                        <p>Como montar um setup funcional para PC e console priorizando periféricos duráveis e bom
+                            preço.</p>
+                    </div>
+                    <div class="card">
+                        <h3>Lançamentos do Ano</h3>
+                        <p>Os jogos mais aguardados para PC, PS5 e Xbox, com comparativo entre formatos e promoções.</p>
+                    </div>
+                    <div class="card">
+                        <h3>Ativação Sem Dúvidas</h3>
+                        <p>Guias rápidos de resgate de chaves digitais para você não perder tempo na hora de jogar.</p>
+                    </div>
+                    <div class="card">
+                        <h3>Ofertas Relâmpago</h3>
+                        <p>Seleções semanais de jogos e acessórios com desconto no Pix e cupom exclusivo.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="ofertas-rapidas">
+                <div class="section-header">
+                    <h2>Reviews Rápidos de 30–60s & Destaques</h2>
+                    <p>Análises diretas ao ponto, comparativos de preço e unboxings ligados às ofertas da loja.</p>
+                </div>
+
+                <div class="grid-3">
+                    <div class="card">
+                        <h3>🎬 "Vale a pena jogar?" (45s)</h3>
+                        <p>Resumo rápido de gameplay, desempenho e custo-benefício antes de você garantir sua chave
+                            digital.</p>
+                    </div>
+                    <div class="card">
+                        <h3>⚖️ Comparativo de Preço (30s)</h3>
+                        <p>Veja quando compensa pegar mídia digital na promoção ou investir na caixinha física.</p>
+                    </div>
+                    <div class="card">
+                        <h3>📦 Unboxing de Periféricos (60s)</h3>
+                        <p>Mostramos o que vem na caixa, construção e primeiros testes de headsets, controles e
+                            acessórios.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="comunidade">
+                <div class="capture-box">
+                    <div>
+                        <h2>Receba Promoções, Guias e Cupons</h2>
+                        <p style="color: var(--muted); margin-top: 8px;">
+                            Cadastre seu e-mail para receber novidades do blog, seleção de jogos em promoção e avisos
+                            dos nossos canais no WhatsApp e Discord.
+                        </p>
+                    </div>
+                    <form id="newsletter-form" onsubmit="handleSubscribe(event)">
+                        <div class="form-row">
+                            <input type="email" id="email-input" required placeholder="seu-email@exemplo.com"
+                                aria-label="Seu e-mail" />
+                            <button type="submit" class="btn btn-primary">Quero Receber</button>
+                        </div>
+                        <div class="feedback" id="form-feedback"></div>
+                    </form>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container footer-inner">
+            <div>
+                <strong>GigaTech Games</strong> — Jogos físicos e digitais, consoles, periféricos e acessórios.
+            </div>
+            <div>
+                URL do artigo: <code>https://gigatech.com.br/midia-fisica-ou-digital</code>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        const personas = {
+            casual: {
+                copy: "Quer jogar mais gastando menos? Compare mídia física e digital e aproveite chaves com entrega imediata e desconto no Pix na GigaTech Games!",
+                note: "Foco em ativação imediata, promoções frequentes e economia no Pix para aproveitar mais jogos no PC e no console."
+            },
+            collector: {
+                copy: "Nada supera a estante completa! Descubra quando vale investir na edição física ou digital e garanta seus títulos favoritos na GigaTech Games.",
+                note: "Foco em edições físicas para coleção, empréstimo ou revenda, sem abrir mão de boas oportunidades no digital."
+            }
+        };
+
+        function setPersona(type) {
+            const data = personas[type];
+            document.getElementById("personalized-copy").textContent = data.copy;
+            document.getElementById("persona-note").textContent = data.note;
+            document.getElementById("btn-casual").classList.toggle("active", type === "casual");
+            document.getElementById("btn-collector").classList.toggle("active", type === "collector");
+        }
+
+        function copyCoupon() {
+            const code = "GIGAGAMER10";
+            const label = document.getElementById("copy-label");
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(code).catch(() => { });
+            }
+            label.textContent = "(copiado!)";
+            setTimeout(() => {
+                label.textContent = "(copiar)";
+            }, 2000);
+        }
+
+        function handleSubscribe(event) {
+            event.preventDefault();
+            const input = document.getElementById("email-input");
+            const feedback = document.getElementById("form-feedback");
+            feedback.textContent = `Pronto! ${input.value} foi registrado para receber promoções, guias e o cupom GIGAGAMER10.`;
+            input.value = "";
+        }
+    </script>
+</body>
+
+</html>
