@@ -2,681 +2,772 @@
 <html lang="pt-BR">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games</title>
-    <meta name="description"
-        content="Descubra as vantagens e desvantagens entre mídia física e mídia digital, compare preços e veja onde comprar jogos com entrega rápida na GigaTech Games." />
-    <link rel="canonical" href="https://gigatech.com.br/midia-fisica-ou-digital" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <style>
-        :root {
-            --bg: #090d16;
-            --bg-card: #111827;
-            --bg-card-2: #172033;
-            --text: #f3f6fc;
-            --muted: #9fb0cc;
-            --primary: #00e5ff;
-            --secondary: #7c3aed;
-            --accent: #10b981;
-            --border: rgba(255, 255, 255, 0.09);
-            --radius: 16px;
-        }
+  <title>Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games</title>
+  <meta name="description"
+    content="Descubra as vantagens e desvantagens entre mídia física e mídia digital, compare preços e veja onde comprar seus jogos com entrega rápida na GigaTech Games.">
+  <meta name="keywords"
+    content="mídia física ou mídia digital, jogos digitais, jogos físicos, chave digital pix, periféricos gamer, GigaTech Games">
+  <meta name="author" content="GigaTech Games">
+  <link rel="canonical" href="https://github.com/ThiagoGabriel-S/Adm_Web03">
 
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games">
+  <meta property="og:description"
+    content="Descubra as vantagens e desvantagens entre mídia física e mídia digital, compare preços e veja onde comprar jogos com entrega rápida na GigaTech Games.">
 
-        body {
-            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background: radial-gradient(circle at top right, rgba(124, 58, 237, 0.18), transparent 40%),
-                radial-gradient(circle at top left, rgba(0, 229, 255, 0.14), transparent 40%),
-                var(--bg);
-            color: var(--text);
-            line-height: 1.65;
-        }
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%236d28d9'/><text x='50' y='66' font-size='50' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'>G</text></svg>">
 
-        a {
-            color: inherit;
-            text-decoration: none;
-        }
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "name": "GigaTech Games",
+    "description": "Loja especializada em jogos físicos e digitais, consoles, periféricos e acessórios com entrega rápida e preço acessível.",
+    "url": "https://gigatech.com.br/midia-fisica-ou-digital",
+    "address": { "@type": "PostalAddress", "addressLocality": "Juiz de Fora", "addressRegion": "MG", "addressCountry": "BR" }
+  }
+  </script>
 
-        .container {
-            width: min(1120px, 92%);
-            margin: 0 auto;
-        }
+  <style>
+    :root {
+      --primaria: #6d28d9;
+      --primaria-esc: #4c1d95;
+      --destaque: #0891b2;
+      --destaque-claro: #cffafe;
+      --clara: #f3e8ff;
+      --texto: #0f172a;
+      --suave: #475569;
+      --fundo: #fcfaff;
+      --alt: #f5f3ff;
+      --borda: #e2e8f0;
+      --ok: #059669;
+      --max: 1040px;
+    }
 
-        /* Topbar & Header */
-        .topbar {
-            background: rgba(0, 229, 255, 0.08);
-            border-bottom: 1px solid var(--border);
-            padding: 10px 0;
-            font-size: 0.9rem;
-            text-align: center;
-            color: #d8f8ff;
-        }
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box
+    }
 
-        .coupon-pill {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            background: var(--bg-card-2);
-            border: 1px dashed var(--primary);
-            color: var(--primary);
-            font-weight: 700;
-            padding: 3px 10px;
-            border-radius: 999px;
-            cursor: pointer;
-            margin: 0 6px;
-            transition: transform 0.15s ease, background 0.2s ease;
-        }
+    html {
+      scroll-behavior: smooth
+    }
 
-        .coupon-pill:hover {
-            transform: scale(1.03);
-            background: rgba(0, 229, 255, 0.15);
-        }
+    body {
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      color: var(--texto);
+      background: var(--fundo);
+      line-height: 1.6
+    }
 
-        header {
-            position: sticky;
-            top: 0;
-            z-index: 20;
-            backdrop-filter: blur(12px);
-            background: rgba(9, 13, 22, 0.82);
-            border-bottom: 1px solid var(--border);
-        }
+    a {
+      color: var(--primaria);
+      text-decoration: none
+    }
 
-        .nav {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 16px 0;
-            gap: 16px;
-            flex-wrap: wrap;
-        }
+    a:hover {
+      text-decoration: underline
+    }
 
-        .logo {
-            font-size: 1.35rem;
-            font-weight: 800;
-            letter-spacing: -0.02em;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
+    .skip {
+      position: absolute;
+      left: -9999px;
+      top: 0;
+      background: var(--primaria);
+      color: #fff;
+      padding: 10px 16px;
+      z-index: 99
+    }
 
-        .logo span {
-            color: var(--primary);
-        }
+    .skip:focus {
+      left: 0
+    }
 
-        .nav-links {
-            display: flex;
-            gap: 20px;
-            font-size: 0.95rem;
-            color: var(--muted);
-            flex-wrap: wrap;
-        }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, .94);
+      backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--borda)
+    }
 
-        .nav-links a:hover {
-            color: var(--text);
-        }
+    .wrap {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 0 18px
+    }
 
-        .btn {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            gap: 8px;
-            padding: 12px 20px;
-            border-radius: 12px;
-            font-weight: 700;
-            font-size: 0.95rem;
-            border: none;
-            cursor: pointer;
-            transition: transform 0.15s ease, opacity 0.2s ease, box-shadow 0.2s ease;
-        }
+    .head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 18px;
+      gap: 12px
+    }
 
-        .btn:hover {
-            transform: translateY(-1px);
-        }
+    .logo {
+      font-weight: 900;
+      font-size: 1.15rem;
+      color: var(--texto);
+      display: flex;
+      align-items: center;
+      gap: 8px
+    }
 
-        .btn-primary {
-            background: linear-gradient(135deg, var(--primary), #38bdf8);
-            color: #041018;
-            box-shadow: 0 8px 24px rgba(0, 229, 255, 0.22);
-        }
+    .logo-box {
+      width: 34px;
+      height: 34px;
+      border-radius: 9px;
+      background: linear-gradient(135deg, var(--primaria), var(--destaque));
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 900;
+      box-shadow: 0 4px 12px rgba(109, 40, 217, .22)
+    }
 
-        .btn-secondary {
-            background: var(--bg-card-2);
-            color: var(--text);
-            border: 1px solid var(--border);
-        }
+    nav {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap
+    }
 
-        /* Hero */
-        .hero {
-            padding: 56px 0 40px;
-            display: grid;
-            grid-template-columns: 1.3fr 0.9fr;
-            gap: 28px;
-            align-items: center;
-        }
+    nav a {
+      color: var(--suave);
+      font-weight: 600;
+      font-size: .9rem;
+      padding: 6px 10px;
+      border-radius: 8px;
+      transition: all .15s ease
+    }
 
-        .badge {
-            display: inline-block;
-            font-size: 0.8rem;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 0.06em;
-            color: var(--primary);
-            background: rgba(0, 229, 255, 0.12);
-            border: 1px solid rgba(0, 229, 255, 0.28);
-            padding: 6px 12px;
-            border-radius: 999px;
-            margin-bottom: 14px;
-        }
+    nav a:hover {
+      background: var(--clara);
+      color: var(--primaria-esc);
+      text-decoration: none
+    }
 
-        h1 {
-            font-size: clamp(2rem, 4vw, 3rem);
-            line-height: 1.15;
-            letter-spacing: -0.03em;
-            margin-bottom: 16px;
-        }
+    .btn {
+      display: inline-block;
+      background: linear-gradient(135deg, var(--primaria), #7e22ce);
+      color: #fff;
+      padding: 11px 22px;
+      border-radius: 99px;
+      font-weight: 700;
+      border: none;
+      cursor: pointer;
+      font-size: .92rem;
+      box-shadow: 0 4px 14px rgba(109, 40, 217, .22);
+      transition: transform .15s ease, background .2s ease
+    }
 
-        .hero p {
-            color: var(--muted);
-            font-size: 1.05rem;
-            margin-bottom: 22px;
-        }
+    .btn:hover {
+      background: linear-gradient(135deg, var(--primaria-esc), var(--primaria));
+      transform: translateY(-1px);
+      text-decoration: none
+    }
 
-        .hero-actions {
-            display: flex;
-            gap: 12px;
-            flex-wrap: wrap;
-            margin-bottom: 22px;
-        }
+    .btn-out {
+      background: #fff;
+      color: var(--destaque);
+      border: 2px solid var(--destaque);
+      box-shadow: none
+    }
 
-        .persona-box {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: var(--radius);
-            padding: 18px;
-        }
+    .btn-out:hover {
+      background: var(--destaque-claro);
+      color: #155e75
+    }
 
-        .persona-switch {
-            display: flex;
-            gap: 8px;
-            margin-bottom: 12px;
-            flex-wrap: wrap;
-        }
+    section {
+      padding: 52px 0
+    }
 
-        .tab-btn {
-            padding: 7px 14px;
-            border-radius: 999px;
-            border: 1px solid var(--border);
-            background: var(--bg-card-2);
-            color: var(--muted);
-            font-size: 0.85rem;
-            font-weight: 600;
-            cursor: pointer;
-        }
+    .hero {
+      background: linear-gradient(135deg, var(--clara) 0%, var(--destaque-claro) 55%, #ffffff 100%);
+      border-bottom: 1px solid var(--borda)
+    }
 
-        .tab-btn.active {
-            background: var(--secondary);
-            color: #fff;
-            border-color: transparent;
-        }
+    .grid2 {
+      display: grid;
+      grid-template-columns: 1.2fr 1fr;
+      gap: 28px;
+      align-items: center
+    }
 
-        .highlight-card {
-            background: linear-gradient(160deg, var(--bg-card-2), var(--bg-card));
-            border: 1px solid var(--border);
-            border-radius: var(--radius);
-            padding: 24px;
-        }
+    .grid3 {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 16px;
+      margin-top: 20px
+    }
 
-        .highlight-card h2 {
-            font-size: 1.2rem;
-            margin-bottom: 12px;
-        }
+    h1 {
+      font-size: clamp(1.7rem, 4vw, 2.4rem);
+      line-height: 1.2;
+      margin-bottom: 12px;
+      color: #1e1b4b
+    }
 
-        .stat-list {
-            list-style: none;
-            display: grid;
-            gap: 12px;
-        }
+    h2 {
+      font-size: 1.5rem;
+      margin-bottom: 10px;
+      color: #1e1b4b
+    }
 
-        .stat-list li {
-            background: rgba(255, 255, 255, 0.03);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 12px 14px;
-        }
+    h3 {
+      font-size: 1.05rem;
+      margin-bottom: 6px;
+      color: #0f172a
+    }
 
-        .stat-list strong {
-            display: block;
-            color: var(--primary);
-            font-size: 0.95rem;
-        }
+    .card {
+      background: #fff;
+      border: 1px solid var(--borda);
+      border-top: 3px solid var(--primaria);
+      border-radius: 14px;
+      padding: 20px;
+      box-shadow: 0 2px 10px rgba(15, 23, 42, .04)
+    }
 
-        .stat-list span {
-            color: var(--muted);
-            font-size: 0.9rem;
-        }
+    .alt {
+      background: var(--alt)
+    }
 
-        /* Sections */
-        section {
-            padding: 44px 0;
-        }
+    .lista {
+      list-style: none;
+      display: grid;
+      gap: 8px;
+      margin-top: 10px
+    }
 
-        .section-header {
-            margin-bottom: 24px;
-        }
+    .lista li::before {
+      content: '✓ ';
+      color: var(--ok);
+      font-weight: 900
+    }
 
-        .section-header h2 {
-            font-size: clamp(1.5rem, 2.8vw, 2.1rem);
-            letter-spacing: -0.02em;
-            margin-bottom: 8px;
-        }
+    .persona-tabs {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 12px
+    }
 
-        .section-header p {
-            color: var(--muted);
-        }
+    .tab-btn {
+      padding: 6px 13px;
+      border-radius: 99px;
+      border: 1px solid #cbd5e1;
+      background: #fff;
+      color: var(--suave);
+      font-size: .82rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all .15s ease
+    }
 
-        /* Article & Comparison */
-        .article-card {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: var(--radius);
-            padding: 28px;
-            margin-bottom: 24px;
-        }
+    .tab-btn.active {
+      background: var(--destaque);
+      color: #fff;
+      border-color: var(--destaque)
+    }
 
-        .article-card p+p {
-            margin-top: 14px;
-        }
+    .cupom-box {
+      margin-top: 14px;
+      padding: 12px 14px;
+      border-radius: 12px;
+      background: #fff;
+      border: 1.5px dashed var(--destaque);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+      font-size: .88rem
+    }
 
-        .cta-banner {
-            margin-top: 22px;
-            background: rgba(16, 185, 129, 0.1);
-            border: 1px solid rgba(16, 185, 129, 0.3);
-            border-radius: 14px;
-            padding: 18px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            gap: 16px;
-            flex-wrap: wrap;
-        }
+    .cupom-box strong {
+      color: var(--primaria-esc)
+    }
 
-        .grid-2 {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 20px;
-        }
+    .cupom-btn {
+      background: var(--destaque);
+      color: #fff;
+      border: none;
+      padding: 6px 13px;
+      border-radius: 99px;
+      font-weight: 700;
+      font-size: .78rem;
+      cursor: pointer
+    }
 
-        .grid-3 {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 20px;
-        }
+    .cupom-btn:hover {
+      background: #0e7490
+    }
 
-        .card {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: var(--radius);
-            padding: 22px;
-        }
+    .form-box {
+      max-width: 540px;
+      margin: 0 auto;
+      background: #fff;
+      border: 1px solid var(--borda);
+      border-top: 4px solid var(--destaque);
+      border-radius: 14px;
+      padding: 24px;
+      box-shadow: 0 6px 20px rgba(15, 23, 42, .05)
+    }
 
-        .card h3 {
-            font-size: 1.15rem;
-            margin-bottom: 10px;
-        }
+    .campo {
+      margin-bottom: 12px
+    }
 
-        .card p,
-        .card li {
-            color: var(--muted);
-            font-size: 0.95rem;
-        }
+    .campo label {
+      display: block;
+      font-size: .82rem;
+      font-weight: 700;
+      margin-bottom: 4px
+    }
 
-        .card ul {
-            padding-left: 18px;
-            display: grid;
-            gap: 8px;
-        }
+    .campo input,
+    .campo select,
+    .campo textarea {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid var(--borda);
+      border-radius: 8px;
+      font: inherit
+    }
 
-        /* Newsletter / WhatsApp & Discord */
-        .capture-box {
-            background: linear-gradient(135deg, rgba(124, 58, 237, 0.2), rgba(0, 229, 255, 0.12));
-            border: 1px solid var(--border);
-            border-radius: var(--radius);
-            padding: 28px;
-            display: grid;
-            grid-template-columns: 1.2fr 1fr;
-            gap: 24px;
-            align-items: center;
-        }
+    .campo input:focus,
+    .campo select:focus,
+    .campo textarea:focus {
+      outline: 2px solid rgba(8, 145, 178, .35);
+      border-color: var(--destaque)
+    }
 
-        .form-row {
-            display: flex;
-            gap: 10px;
-            flex-wrap: wrap;
-        }
+    .ok-msg {
+      display: none;
+      background: #d1fae5;
+      border: 1px solid var(--ok);
+      color: #065f46;
+      padding: 10px;
+      border-radius: 8px;
+      margin-top: 10px;
+      text-align: center;
+      font-weight: 700
+    }
 
-        input[type="email"] {
-            flex: 1;
-            min-width: 220px;
-            padding: 12px 14px;
-            border-radius: 12px;
-            border: 1px solid var(--border);
-            background: var(--bg);
-            color: var(--text);
-            font-size: 0.95rem;
-        }
+    footer {
+      background: #1e1b4b;
+      color: #e2e8f0;
+      padding: 30px 0;
+      font-size: .86rem;
+      text-align: center
+    }
 
-        .feedback {
-            margin-top: 10px;
-            font-size: 0.9rem;
-            color: var(--accent);
-            min-height: 22px;
-        }
+    .fab {
+      position: fixed;
+      bottom: 18px;
+      right: 18px;
+      z-index: 999;
+      width: 52px;
+      height: 52px;
+      border-radius: 50%;
+      background: #6d28d9;
+      color: #fff;
+      border: none;
+      font-size: 1.3rem;
+      cursor: pointer;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, .3)
+    }
 
-        footer {
-            border-top: 1px solid var(--border);
-            padding: 28px 0 40px;
-            color: var(--muted);
-            font-size: 0.9rem;
-        }
+    .dbg {
+      position: fixed;
+      bottom: 80px;
+      right: 18px;
+      z-index: 998;
+      width: 330px;
+      max-width: calc(100vw - 36px);
+      background: #0f172a;
+      color: #e2e8f0;
+      border: 2px solid #6d28d9;
+      border-radius: 12px;
+      padding: 14px;
+      font-size: .78rem;
+      display: none
+    }
 
-        .footer-inner {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 12px;
-        }
+    .dbg.on {
+      display: block
+    }
 
-        @media (max-width: 860px) {
+    .dbg-stat {
+      display: flex;
+      justify-content: space-between;
+      padding: 4px 0;
+      border-bottom: 1px dashed #334155
+    }
 
-            .hero,
-            .grid-2,
-            .grid-3,
-            .capture-box {
-                grid-template-columns: 1fr;
-            }
-        }
-    </style>
+    .dbg-btns {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 6px;
+      margin-top: 10px
+    }
+
+    .dbg-btns button {
+      background: #1e293b;
+      color: #e2e8f0;
+      border: 1px solid #334155;
+      padding: 7px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: .74rem;
+      font-weight: 700
+    }
+
+    .dbg-btns button.pri {
+      background: #6d28d9;
+      border-color: #6d28d9;
+      color: #fff
+    }
+
+    .dbg textarea {
+      width: 100%;
+      height: 95px;
+      margin-top: 8px;
+      background: #020617;
+      color: #38bdf8;
+      border: 1px solid #334155;
+      border-radius: 6px;
+      padding: 6px;
+      font-family: monospace;
+      font-size: .68rem
+    }
+
+    @media(max-width:740px) {
+      .grid2 {
+        grid-template-columns: 1fr
+      }
+    }
+  </style>
 </head>
 
 <body>
-    <div class="topbar">
-        ⚡ Pagamento via Pix com chave digital na hora + cupom
-        <button class="coupon-pill" type="button" onclick="copyCoupon()">
-            GIGAGAMER10 <span id="copy-label">(copiar)</span>
-        </button>
-        na primeira compra!
+  <a href="#principal" class="skip">Pular para o conteúdo</a>
+
+  <header>
+    <div class="wrap head">
+      <a href="#" class="logo" data-track="logo">
+        <span class="logo-box" aria-hidden="true">G</span>
+        <span>GigaTech Games</span>
+      </a>
+      <nav aria-label="Menu principal">
+        <a href="#destaques" data-track="nav-destaques">Destaques</a>
+        <a href="#conteudo" data-track="nav-conteudo">Guia Física vs Digital</a>
+        <a href="#contato" class="btn" data-track="cta-topo">Garantir Jogo</a>
+      </nav>
     </div>
+  </header>
 
-    <header>
-        <div class="container nav">
-            <a href="#topo" class="logo">🎮 GigaTech <span>Games</span></a>
-            <nav class="nav-links">
-                <a href="#guia">Guia: Física vs Digital</a>
-                <a href="#topicos">Guias & Setup</a>
-                <a href="#ofertas-rapidas">Vídeos & Ofertas</a>
-                <a href="#comunidade">Alertas & Cupons</a>
-            </nav>
-            <a href="#ofertas-rapidas" class="btn btn-primary">Ver Catálogo</a>
+  <main id="principal">
+    <section class="hero" data-section="hero">
+      <div class="wrap grid2">
+        <div>
+          <h1>Mídia Física ou Jogo Digital: Qual Vale Mais a Pena?</h1>
+          <p id="subtitulo-persona" style="color:var(--suave);margin:12px 0 20px">
+            Quer jogar mais gastando menos? Compare mídia física e digital e aproveite chaves com entrega imediata e
+            desconto no Pix na GigaTech Games!
+          </p>
+          <div class="persona-tabs" role="group" aria-label="Personalização de mensagem">
+            <button type="button" class="tab-btn active" id="btnCasual" onclick="mudarPersona('casual')"
+              data-track="persona-casual">Jogador Casual (Custo-Benefício)</button>
+            <button type="button" class="tab-btn" id="btnColecionador" onclick="mudarPersona('colecionador')"
+              data-track="persona-colecionador">Colecionador</button>
+          </div>
+          <div style="display:flex;gap:10px;flex-wrap:wrap">
+            <a href="#contato" class="btn" data-track="cta-hero">Usar Cupom GIGAGAMER10 →</a>
+            <a href="#conteudo" class="btn btn-out" data-track="cta-saiba-mais">Ler Comparativo</a>
+          </div>
+          <div class="cupom-box">
+            <span>Cupom de primeira compra: <strong>GIGAGAMER10</strong></span>
+            <button type="button" class="cupom-btn" id="btnCopiarCupom" onclick="copiarCupom()"
+              data-track="copiar-cupom">Copiar cupom</button>
+          </div>
         </div>
-    </header>
+        <aside class="card">
+          <h3>Por que escolher a GigaTech Games?</h3>
+          <ul class="lista">
+            <li>Chave digital na hora com pagamento via Pix e sem espera de frete</li>
+            <li>Jogos físicos, consoles, periféricos e acessórios com preço acessível</li>
+            <li>Guias claros de ativação e comparativos sem enrolação</li>
+          </ul>
+        </aside>
+      </div>
+    </section>
 
-    <main id="topo">
-        <div class="container">
-            <section class="hero">
-                <div>
-                    <span class="badge">Loja Virtual • Jogos, Consoles & Periféricos</span>
-                    <h1>Mídia Física ou Jogo Digital: Qual Vale Mais a Pena?</h1>
-                    <p id="personalized-copy">
-                        Quer jogar mais gastando menos? Compare mídia física e digital e aproveite chaves com entrega
-                        imediata e desconto no Pix na GigaTech Games!
-                    </p>
-
-                    <div class="hero-actions">
-                        <a href="#guia" class="btn btn-primary">Ler Comparativo Completo</a>
-                        <button type="button" class="btn btn-secondary" onclick="copyCoupon()">
-                            Usar Cupom GIGAGAMER10
-                        </button>
-                    </div>
-
-                    <div class="persona-box">
-                        <div class="persona-switch">
-                            <button type="button" class="tab-btn active" id="btn-casual" onclick="setPersona('casual')">
-                                ⚡ Perfil Jogador Casual / Custo-Benefício
-                            </button>
-                            <button type="button" class="tab-btn" id="btn-collector" onclick="setPersona('collector')">
-                                🏆 Perfil Colecionador
-                            </button>
-                        </div>
-                        <p id="persona-note" style="font-size: 0.9rem; color: var(--muted);">
-                            Foco em ativação imediata, promoções frequentes e economia no Pix para aproveitar mais jogos
-                            no PC e no console.
-                        </p>
-                    </div>
-                </div>
-
-                <aside class="highlight-card">
-                    <h2>Por que escolher a GigaTech Games?</h2>
-                    <ul class="stat-list">
-                        <li>
-                            <strong>🔑 Entrega Digital Imediata</strong>
-                            <span>Comprou, pagou via Pix e recebeu sua chave digital na hora para baixar sem esperar
-                                frete.</span>
-                        </li>
-                        <li>
-                            <strong>📦 Mídia Física & Hardware</strong>
-                            <span>Jogos em disco, consoles, periféricos e acessórios com preço acessível e envio
-                                rápido.</span>
-                        </li>
-                        <li>
-                            <strong>💬 Suporte Claro e Direto</strong>
-                            <span>Passo a passo simples para ativar chaves e tirar dúvidas sem enrolação.</span>
-                        </li>
-                    </ul>
-                </aside>
-            </section>
-
-            <section id="guia">
-                <div class="section-header">
-                    <h2>Análise Completa: Mídia Física vs. Mídia Digital</h2>
-                    <p>Descubra qual formato combina mais com o seu estilo de jogo e orçamento.</p>
-                </div>
-
-                <article class="article-card">
-                    <p>
-                        Na hora de garantir aquele lançamento tão esperado, surge a dúvida: comprar o disco físico ou
-                        apostar na mídia digital? Cada formato tem vantagens claras dependendo do seu perfil de jogador.
-                    </p>
-                    <p>
-                        Os jogos digitais ganham na praticidade: você compra, recebe o código na hora e já começa a
-                        baixar sem esperar frete ou sair de casa. Além disso, as mídias digitais oferecem ativação
-                        imediata, zero espera de frete e promoções relâmpago frequentes.
-                    </p>
-                    <p>
-                        Já a mídia física é ideal para quem gosta de colecionar caixinhas, emprestar jogos para amigos
-                        ou revender o título depois de zerar para recuperar parte do investimento.
-                    </p>
-                    <p>
-                        Na <strong>GigaTech Games</strong>, você encontra as melhores ofertas nos dois formatos com
-                        pagamento rápido via Pix. Confira nosso catálogo e escolha o seu próximo jogo!
-                    </p>
-
-                    <div class="cta-banner">
-                        <div>
-                            <strong>Pronto para garantir seu próximo jogo?</strong>
-                            <p style="color: var(--muted); font-size: 0.92rem;">
-                                Acesse agora o catálogo da GigaTech Games, use o cupom <strong>GIGAGAMER10</strong> e
-                                garanta seu próximo jogo com entrega imediata!
-                            </p>
-                        </div>
-                        <button type="button" class="btn btn-primary" onclick="copyCoupon()">
-                            Copiar GIGAGAMER10
-                        </button>
-                    </div>
-                </article>
-
-                <div class="grid-2">
-                    <div class="card">
-                        <h3>💻 Jogo Digital</h3>
-                        <ul>
-                            <li>Chave digital enviada na hora após confirmação via Pix.</li>
-                            <li>Sem esperar frete ou deslocamento.</li>
-                            <li>Promoções frequentes com ótimo custo-benefício.</li>
-                            <li>Ideal para quem quer jogar imediatamente no PC ou console.</li>
-                        </ul>
-                    </div>
-                    <div class="card">
-                        <h3>💿 Mídia Física</h3>
-                        <ul>
-                            <li>Perfeita para colecionadores que valorizam a caixinha na estante.</li>
-                            <li>Permite emprestar para amigos.</li>
-                            <li>Possibilidade de revender após zerar para abater custos.</li>
-                            <li>Ótima opção para presentes e edições especiais.</li>
-                        </ul>
-                    </div>
-                </div>
-            </section>
-
-            <section id="topicos">
-                <div class="section-header">
-                    <h2>Outros Guias da GigaTech Games</h2>
-                    <p>Conteúdos pensados para ajudar você a montar seu setup e escolher bem sem gastar demais.</p>
-                </div>
-
-                <div class="grid-3">
-                    <div class="card">
-                        <h3>PC Sem Placa Dedicada</h3>
-                        <p>Os 7 melhores jogos leves para rodar bem e manter a diversão em dia no notebook ou PC de
-                            entrada.</p>
-                    </div>
-                    <div class="card">
-                        <h3>Headset Custo-Benefício</h3>
-                        <p>Como escolher um headset com áudio limpo, microfone decente e conforto para longas sessões.
-                        </p>
-                    </div>
-                    <div class="card">
-                        <h3>Setup Gastando Pouco</h3>
-                        <p>Como montar um setup funcional para PC e console priorizando periféricos duráveis e bom
-                            preço.</p>
-                    </div>
-                    <div class="card">
-                        <h3>Lançamentos do Ano</h3>
-                        <p>Os jogos mais aguardados para PC, PS5 e Xbox, com comparativo entre formatos e promoções.</p>
-                    </div>
-                    <div class="card">
-                        <h3>Ativação Sem Dúvidas</h3>
-                        <p>Guias rápidos de resgate de chaves digitais para você não perder tempo na hora de jogar.</p>
-                    </div>
-                    <div class="card">
-                        <h3>Ofertas Relâmpago</h3>
-                        <p>Seleções semanais de jogos e acessórios com desconto no Pix e cupom exclusivo.</p>
-                    </div>
-                </div>
-            </section>
-
-            <section id="ofertas-rapidas">
-                <div class="section-header">
-                    <h2>Reviews Rápidos de 30–60s & Destaques</h2>
-                    <p>Análises diretas ao ponto, comparativos de preço e unboxings ligados às ofertas da loja.</p>
-                </div>
-
-                <div class="grid-3">
-                    <div class="card">
-                        <h3>🎬 "Vale a pena jogar?" (45s)</h3>
-                        <p>Resumo rápido de gameplay, desempenho e custo-benefício antes de você garantir sua chave
-                            digital.</p>
-                    </div>
-                    <div class="card">
-                        <h3>⚖️ Comparativo de Preço (30s)</h3>
-                        <p>Veja quando compensa pegar mídia digital na promoção ou investir na caixinha física.</p>
-                    </div>
-                    <div class="card">
-                        <h3>📦 Unboxing de Periféricos (60s)</h3>
-                        <p>Mostramos o que vem na caixa, construção e primeiros testes de headsets, controles e
-                            acessórios.</p>
-                    </div>
-                </div>
-            </section>
-
-            <section id="comunidade">
-                <div class="capture-box">
-                    <div>
-                        <h2>Receba Promoções, Guias e Cupons</h2>
-                        <p style="color: var(--muted); margin-top: 8px;">
-                            Cadastre seu e-mail para receber novidades do blog, seleção de jogos em promoção e avisos
-                            dos nossos canais no WhatsApp e Discord.
-                        </p>
-                    </div>
-                    <form id="newsletter-form" onsubmit="handleSubscribe(event)">
-                        <div class="form-row">
-                            <input type="email" id="email-input" required placeholder="seu-email@exemplo.com"
-                                aria-label="Seu e-mail" />
-                            <button type="submit" class="btn btn-primary">Quero Receber</button>
-                        </div>
-                        <div class="feedback" id="form-feedback"></div>
-                    </form>
-                </div>
-            </section>
+    <section id="destaques" class="alt" data-section="destaques">
+      <div class="wrap">
+        <h2>O que oferecemos</h2>
+        <p style="color:var(--suave)">Jogos digitais e físicos, periféricos com ótimo custo-benefício e conteúdos
+          rápidos para ajudar na sua escolha.</p>
+        <div class="grid3">
+          <article class="card">
+            <h3>⚡ Chaves Digitais & Pix</h3>
+            <p style="color:var(--suave)">Compre lançamentos e promoções para PC e console, pague via Pix e receba a
+              chave digital na hora para baixar imediatamente.</p>
+          </article>
+          <article class="card">
+            <h3>💿 Mídia Física & Periféricos</h3>
+            <p style="color:var(--suave)">Discos para colecionar, emprestar ou revender, além de headsets, controles e
+              acessórios para setups econômicos.</p>
+          </article>
+          <article class="card">
+            <h3>🎬 Guias & Vídeos de 30–60s</h3>
+            <p style="color:var(--suave)">Dicas de jogos leves sem placa dedicada, setups baratos, ativação de chaves e
+              análises rápidas ligadas às ofertas.</p>
+          </article>
         </div>
-    </main>
+      </div>
+    </section>
 
-    <footer>
-        <div class="container footer-inner">
-            <div>
-                <strong>GigaTech Games</strong> — Jogos físicos e digitais, consoles, periféricos e acessórios.
+    <section id="conteudo" data-section="conteudo">
+      <div class="wrap" style="max-width:780px">
+        <article>
+          <h2>Mídia física ou mídia digital: qual vale mais a pena?</h2>
+          <p style="color:var(--suave);margin:10px 0">
+            Na hora de garantir aquele lançamento tão esperado, surge a dúvida: comprar o disco físico ou apostar na
+            mídia digital? As mídias digitais oferecem ativação imediata, zero espera de frete e promoções frequentes.
+            Já a mídia física é perfeita para colecionadores e permite emprestar ou revender o jogo depois de zerar.
+          </p>
+          <h3>1. Quando escolher mídia digital?</h3>
+          <p style="color:var(--suave);margin-bottom:10px">Os jogos digitais ganham na praticidade: você compra, recebe
+            o código na hora e já começa a baixar sem esperar frete ou sair de casa, aproveitando promoções relâmpago
+            frequentes.</p>
+          <h3>2. Quando escolher mídia física e como garantir na GigaTech Games?</h3>
+          <p style="color:var(--suave)">Se você gosta de colecionar caixinhas, emprestar jogos para amigos ou revender
+            após zerar para recuperar parte do investimento, a mídia física é a escolha certa. Na GigaTech Games, você
+            encontra as melhores ofertas nos dois formatos com pagamento rápido via Pix. Acesse agora o catálogo, use o
+            cupom <strong>GIGAGAMER10</strong> e garanta seu próximo jogo com entrega imediata!</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="contato" class="alt" data-section="contato">
+      <div class="wrap">
+        <div class="form-box">
+          <h2>Receba ofertas, cupons e alertas</h2>
+          <p style="color:var(--suave);font-size:.9rem;margin-bottom:14px">Cadastre-se para receber promoções semanais,
+            guias e avisos no e-mail, WhatsApp ou Discord.</p>
+          <form id="formProjeto">
+            <div class="campo"><label for="nome">Nome *</label><input id="nome" required placeholder="Seu nome"></div>
+            <div class="campo"><label for="email">E-mail *</label><input id="email" type="email" required
+                placeholder="voce@email.com"></div>
+            <div class="campo">
+              <label for="interesse">Área de Interesse</label>
+              <select id="interesse">
+                <option value="Jogos Digitais (Chave na Hora)">Jogos Digitais (Chave na Hora)</option>
+                <option value="Mídia Física & Consoles">Mídia Física & Consoles</option>
+                <option value="Periféricos & Setup Custo-Benefício">Periféricos & Setup Custo-Benefício</option>
+                <option value="Cupons, Promoções & Comunidade">Cupons, Promoções & Comunidade</option>
+              </select>
             </div>
-            <div>
-                URL do artigo: <code>https://gigatech.com.br/midia-fisica-ou-digital</code>
+            <div class="campo">
+              <label for="persona">Perfil (didático)</label>
+              <select id="persona">
+                <option value="estudante">Estudante / Estagiário (Custo-benefício)</option>
+                <option value="cliente">Jogador Casual / PC e Console</option>
+                <option value="voluntario">Colecionador de Mídia Física</option>
+                <option value="empresa">Parceiro / Criador de Conteúdo</option>
+              </select>
             </div>
+            <div class="campo"><label for="msg">Mensagem ou jogo desejado (opcional)</label><textarea id="msg" rows="2"
+                placeholder="Ex.: Quero alerta de promoção via Pix com o cupom GIGAGAMER10..."></textarea></div>
+            <button type="submit" class="btn" style="width:100%" data-track="form-submit">Garantir cupom GIGAGAMER10
+              →</button>
+            <div id="okMsg" class="ok-msg" role="status">✅ Cadastro registrado! Use o cupom GIGAGAMER10 no Pix.</div>
+          </form>
         </div>
-    </footer>
+      </div>
+    </section>
+  </main>
 
-    <script>
-        const personas = {
-            casual: {
-                copy: "Quer jogar mais gastando menos? Compare mídia física e digital e aproveite chaves com entrega imediata e desconto no Pix na GigaTech Games!",
-                note: "Foco em ativação imediata, promoções frequentes e economia no Pix para aproveitar mais jogos no PC e no console."
-            },
-            collector: {
-                copy: "Nada supera a estante completa! Descubra quando vale investir na edição física ou digital e garanta seus títulos favoritos na GigaTech Games.",
-                note: "Foco em edições físicas para coleção, empréstimo ou revenda, sem abrir mão de boas oportunidades no digital."
-            }
+  <footer>
+    <div class="wrap">© 2026 GigaTech Games — Jogos físicos e digitais, consoles, periféricos e acessórios
+      (https://gigatech.com.br/midia-fisica-ou-digital)</div>
+  </footer>
+
+  <button class="fab" id="dbgFab" aria-label="Abrir Analytics e JSON" title="Analytics &amp; JSON">📊</button>
+  <div class="dbg" id="dbgBox" role="dialog" aria-label="Telemetria local">
+    <strong>📊 Telemetria Local (localStorage)</strong>
+    <div class="dbg-stat"><span>Eventos salvos</span><strong id="stEv">0</strong></div>
+    <div class="dbg-stat"><span>Scroll máx.</span><strong id="stSc">0%</strong></div>
+    <div class="dbg-stat"><span>Formulários</span><strong id="stFm">0</strong></div>
+    <div class="dbg-btns">
+      <button type="button" class="pri" id="btnExp">⬇️ Exportar JSON</button>
+      <button type="button" id="btnImp">⬆️ Importar JSON</button>
+      <button type="button" id="btnVer">👁️ Ver JSON</button>
+      <button type="button" id="btnClr">🗑️ Limpar</button>
+    </div>
+    <input type="file" id="impFile" accept=".json,application/json" style="display:none">
+    <textarea id="dbgJson" readonly placeholder="Clique em Ver JSON..."></textarea>
+  </div>
+
+  <script>
+    window.mudarPersona = function (tipo) {
+      var el = document.getElementById('subtitulo-persona');
+      var b1 = document.getElementById('btnCasual');
+      var b2 = document.getElementById('btnColecionador');
+      if (tipo === 'colecionador') {
+        el.textContent = 'Nada supera a estante completa! Descubra quando vale investir na edição física ou digital e garanta seus títulos favoritos na GigaTech Games.';
+        b2.classList.add('active'); b1.classList.remove('active');
+      } else {
+        el.textContent = 'Quer jogar mais gastando menos? Compare mídia física e digital e aproveite chaves com entrega imediata e desconto no Pix na GigaTech Games!';
+        b1.classList.add('active'); b2.classList.remove('active');
+      }
+    };
+
+    window.copiarCupom = function () {
+      var btn = document.getElementById('btnCopiarCupom');
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText('GIGAGAMER10').catch(function () { });
+      }
+      btn.textContent = 'Copiado!';
+      setTimeout(function () { btn.textContent = 'Copiar cupom'; }, 2000);
+    };
+
+    (function () {
+      var CHAVE = 'buscaweb_aluno_analytics';
+      var sessId = 'sess_' + Date.now().toString(36);
+      var inicio = Date.now(), scrollMax = 0, secAtual = null, secIni = null, formIni = false, formEnv = false;
+
+      function ler() { try { return JSON.parse(localStorage.getItem(CHAVE) || '[]'); } catch (e) { return []; } }
+      function salvar(arr) { try { localStorage.setItem(CHAVE, JSON.stringify(arr)); } catch (e) { } }
+      function reg(tipo, dados) {
+        var arr = ler();
+        arr.push({ sessao: sessId, tipo: tipo, timestamp: Date.now(), url: location.href, viewport: { w: innerWidth, h: innerHeight }, scrollY: scrollY, dados: dados || {} });
+        salvar(arr); atualizarUI();
+      }
+
+      function extrairSeoDom() {
+        var h1s = document.querySelectorAll('h1');
+        var imgs = Array.from(document.querySelectorAll('img'));
+        var noAlt = imgs.filter(function (i) { return !(i.getAttribute('alt') || '').trim(); }).length;
+        var txt = (document.body.innerText || '').replace(/\s+/g, ' ').trim();
+        return {
+          title: document.title,
+          metaDescription: document.querySelector('meta[name="description"]')?.content || '',
+          canonical: document.querySelector('link[rel="canonical"]')?.href || '',
+          htmlLang: document.documentElement.lang || '',
+          hasViewport: !!document.querySelector('meta[name="viewport"]'),
+          h1Count: h1s.length,
+          h2Count: document.querySelectorAll('h2').length,
+          h3Count: document.querySelectorAll('h3').length,
+          totalImages: imgs.length,
+          imagesWithoutAlt: noAlt,
+          hasSchemaJsonLd: !!document.querySelector('script[type="application/ld+json"]'),
+          ctaCount: document.querySelectorAll('[data-track],button,a.btn').length,
+          wordCount: txt ? txt.split(' ').length : 0
         };
+      }
 
-        function setPersona(type) {
-            const data = personas[type];
-            document.getElementById("personalized-copy").textContent = data.copy;
-            document.getElementById("persona-note").textContent = data.note;
-            document.getElementById("btn-casual").classList.toggle("active", type === "casual");
-            document.getElementById("btn-collector").classList.toggle("active", type === "collector");
-        }
+      reg('page_view', { titulo: document.title });
 
-        function copyCoupon() {
-            const code = "GIGAGAMER10";
-            const label = document.getElementById("copy-label");
-            if (navigator.clipboard && navigator.clipboard.writeText) {
-                navigator.clipboard.writeText(code).catch(() => { });
+      addEventListener('scroll', function () {
+        var h = document.documentElement.scrollHeight - innerHeight;
+        var p = h > 0 ? Math.round((scrollY / h) * 100) : 0;
+        if (p > scrollMax) { scrollMax = p; if (p % 25 === 0) reg('scroll', { profundidade: p }); }
+      }, { passive: true });
+
+      document.addEventListener('click', function (e) {
+        if (e.target.closest('#dbgBox') || e.target.closest('#dbgFab')) return;
+        var cta = e.target.closest('[data-track]');
+        if (cta) reg('cta_click', { track: cta.getAttribute('data-track'), texto: (cta.textContent || '').trim().slice(0, 40), x: e.clientX, y: e.clientY });
+        reg('click', { x: e.clientX, y: e.clientY, scrollY: scrollY });
+      });
+
+      if ('IntersectionObserver' in window) {
+        var obs = new IntersectionObserver(function (ents) {
+          ents.forEach(function (en) {
+            var n = en.target.getAttribute('data-section');
+            if (en.isIntersecting) {
+              if (secAtual && secIni) reg('time_on_section', { secao: secAtual, duracao_s: Math.round((Date.now() - secIni) / 1000) });
+              secAtual = n; secIni = Date.now();
+            } else if (secAtual === n && secIni) {
+              reg('time_on_section', { secao: n, duracao_s: Math.round((Date.now() - secIni) / 1000) });
+              secAtual = null; secIni = null;
             }
-            label.textContent = "(copiado!)";
-            setTimeout(() => {
-                label.textContent = "(copiar)";
-            }, 2000);
-        }
+          });
+        }, { threshold: 0.45 });
+        document.querySelectorAll('[data-section]').forEach(function (s) { obs.observe(s); });
+      }
 
-        function handleSubscribe(event) {
-            event.preventDefault();
-            const input = document.getElementById("email-input");
-            const feedback = document.getElementById("form-feedback");
-            feedback.textContent = `Pronto! ${input.value} foi registrado para receber promoções, guias e o cupom GIGAGAMER10.`;
-            input.value = "";
-        }
-    </script>
+      var form = document.getElementById('formProjeto');
+      form.addEventListener('input', function () { if (!formIni) { formIni = true; reg('form_start', {}); } });
+      form.addEventListener('submit', function (e) {
+        e.preventDefault(); formEnv = true;
+        var nome = document.getElementById('nome').value.trim();
+        var email = document.getElementById('email').value.trim();
+        var msg = document.getElementById('msg').value.trim();
+        reg('form_submit', {
+          nome_mascarado: nome ? nome.split(' ')[0] + ' ***' : '***',
+          email_mascarado: email.indexOf('@') > -1 ? email.slice(0, 2) + '***@' + email.split('@')[1] : '***',
+          telefone_mascarado: '—',
+          servico: document.getElementById('interesse').value,
+          persona_hint: document.getElementById('persona').value,
+          tem_mensagem: msg.length > 0,
+          tamanho_mensagem: msg.length
+        });
+        document.getElementById('okMsg').style.display = 'block';
+        form.reset();
+      });
+
+      addEventListener('beforeunload', function () {
+        if (formIni && !formEnv) reg('form_abandon', {});
+        reg('exit', { duracao_total_s: Math.round((Date.now() - inicio) / 1000), scroll_max: scrollMax });
+      });
+
+      function atualizarUI() {
+        var arr = ler();
+        document.getElementById('stEv').textContent = arr.length;
+        document.getElementById('stSc').textContent = scrollMax + '%';
+        document.getElementById('stFm').textContent = arr.filter(function (x) { return x.tipo === 'form_submit'; }).length;
+      }
+
+      document.getElementById('dbgFab').onclick = function () { document.getElementById('dbgBox').classList.toggle('on'); atualizarUI(); };
+      document.getElementById('btnVer').onclick = function () { document.getElementById('dbgJson').value = JSON.stringify({ schema: 'BuscaWeb-Site-Telemetry', seoMeta: extrairSeoDom(), eventos: ler() }, null, 2); };
+      document.getElementById('btnExp').onclick = function () {
+        var payload = { schema: 'BuscaWeb-Site-Telemetry', exportedAt: new Date().toISOString(), seoMeta: extrairSeoDom(), eventos: ler() };
+        var a = document.createElement('a');
+        a.href = URL.createObjectURL(new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' }));
+        a.download = 'telemetria-projeto-' + sessId + '.json'; a.click();
+      };
+      document.getElementById('btnImp').onclick = function () { document.getElementById('impFile').click(); };
+      document.getElementById('impFile').onchange = function (e) {
+        var f = e.target.files[0]; if (!f) return;
+        var rd = new FileReader();
+        rd.onload = function () {
+          try {
+            var parsed = JSON.parse(rd.result);
+            var incoming = Array.isArray(parsed) ? parsed : (Array.isArray(parsed.eventos) ? parsed.eventos : null);
+            if (!incoming) return alert('JSON inválido.');
+            var atual = ler();
+            salvar(atual.concat(incoming)); atualizarUI();
+            alert('✅ ' + incoming.length + ' evento(s) importado(s) para o localStorage!');
+          } catch (err) { alert('Erro ao ler JSON: ' + err.message); }
+        };
+        rd.readAsText(f);
+      };
+      document.getElementById('btnClr').onclick = function () { if (confirm('Limpar eventos locais?')) { localStorage.removeItem(CHAVE); document.getElementById('dbgJson').value = ''; atualizarUI(); } };
+      atualizarUI();
+    })();
+  </script>
 </body>
-
 </html>
