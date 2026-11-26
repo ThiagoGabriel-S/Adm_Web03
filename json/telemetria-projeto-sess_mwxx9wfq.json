@@ -1,0 +1,2668 @@
+{
+  "schema": "BuscaWeb-Site-Telemetry",
+  "exportedAt": "2026-11-26T19:26:54.677Z",
+  "seoMeta": {
+    "title": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games",
+    "metaDescription": "Descubra as vantagens e desvantagens entre mídia física e mídia digital, compare preços e veja onde comprar seus jogos com entrega rápida na GigaTech Games.",
+    "canonical": "https://github.com/ThiagoGabriel-S/Adm_Web03",
+    "htmlLang": "pt-BR",
+    "hasViewport": true,
+    "h1Count": 1,
+    "h2Count": 3,
+    "h3Count": 6,
+    "totalImages": 0,
+    "imagesWithoutAlt": 0,
+    "hasSchemaJsonLd": true,
+    "ctaCount": 15,
+    "wordCount": 472
+  },
+  "eventos": [
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "page_view",
+      "timestamp": 1795719759019,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games"
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719763645,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 113,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 5
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719763716,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 537,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719764150,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 436,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "cta_click",
+      "timestamp": 1795719765214,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 0,
+      "dados": {
+        "track": "cta-topo",
+        "texto": "Garantir Jogo",
+        "x": 1134,
+        "y": 54
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "click",
+      "timestamp": 1795719765214,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 0,
+      "dados": {
+        "x": 1134,
+        "y": 54,
+        "scrollY": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719765294,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 86,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719765364,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 517,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719765478,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1114,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "scroll",
+      "timestamp": 1795719766100,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1599,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "cta_click",
+      "timestamp": 1795719767051,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "track": "form-submit",
+        "texto": "Garantir cupom GIGAGAMER10\n             ",
+        "x": 754,
+        "y": 453
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "click",
+      "timestamp": 1795719767052,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "x": 754,
+        "y": 453,
+        "scrollY": 1607
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719767537,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1151,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 2
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719768113,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 630,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719768167,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 244,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "cta_click",
+      "timestamp": 1795719769675,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 0,
+      "dados": {
+        "track": "nav-conteudo",
+        "texto": "Guia Física vs Digital",
+        "x": 953,
+        "y": 48
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "click",
+      "timestamp": 1795719769675,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 0,
+      "dados": {
+        "x": 953,
+        "y": 48,
+        "scrollY": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719769763,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#conteudo",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 103,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 2
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719769828,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#conteudo",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 519,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "cta_click",
+      "timestamp": 1795719770340,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#conteudo",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 910,
+      "dados": {
+        "track": "nav-destaques",
+        "texto": "Destaques",
+        "x": 835,
+        "y": 31
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "click",
+      "timestamp": 1795719770340,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#conteudo",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 910,
+      "dados": {
+        "x": 835,
+        "y": 31,
+        "scrollY": 910
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719770429,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 685,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719770978,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 254,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719777527,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 116,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 7
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719777583,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 569,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "time_on_section",
+      "timestamp": 1795719777884,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1154,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "click",
+      "timestamp": 1795719806507,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "x": 1146,
+        "y": 214,
+        "scrollY": 1607
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "click",
+      "timestamp": 1795719815003,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "x": 971,
+        "y": 451,
+        "scrollY": 1607
+      }
+    },
+    {
+      "sessao": "sess_mwxx6ht6",
+      "tipo": "exit",
+      "timestamp": 1795719831830,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "duracao_total_s": 73,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx825q",
+      "tipo": "page_view",
+      "timestamp": 1795719832047,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "titulo": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games"
+      }
+    },
+    {
+      "sessao": "sess_mwxx825q",
+      "tipo": "scroll",
+      "timestamp": 1795719832178,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx825q",
+      "tipo": "exit",
+      "timestamp": 1795719834490,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "duracao_total_s": 2,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx842t",
+      "tipo": "page_view",
+      "timestamp": 1795719834534,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "titulo": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games"
+      }
+    },
+    {
+      "sessao": "sess_mwxx842t",
+      "tipo": "scroll",
+      "timestamp": 1795719834561,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx842t",
+      "tipo": "exit",
+      "timestamp": 1795719835718,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "duracao_total_s": 1,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx850v",
+      "tipo": "page_view",
+      "timestamp": 1795719835760,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "titulo": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games"
+      }
+    },
+    {
+      "sessao": "sess_mwxx850v",
+      "tipo": "scroll",
+      "timestamp": 1795719835783,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx850v",
+      "tipo": "exit",
+      "timestamp": 1795719836032,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx859k",
+      "tipo": "page_view",
+      "timestamp": 1795719836072,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "titulo": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games"
+      }
+    },
+    {
+      "sessao": "sess_mwxx859k",
+      "tipo": "scroll",
+      "timestamp": 1795719836101,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx859k",
+      "tipo": "exit",
+      "timestamp": 1795719836138,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx85hb",
+      "tipo": "page_view",
+      "timestamp": 1795719836351,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "titulo": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games"
+      }
+    },
+    {
+      "sessao": "sess_mwxx85hb",
+      "tipo": "scroll",
+      "timestamp": 1795719836365,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx85hb",
+      "tipo": "exit",
+      "timestamp": 1795719836568,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx85oj",
+      "tipo": "page_view",
+      "timestamp": 1795719836611,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "titulo": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games"
+      }
+    },
+    {
+      "sessao": "sess_mwxx85oj",
+      "tipo": "scroll",
+      "timestamp": 1795719836641,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx85oj",
+      "tipo": "exit",
+      "timestamp": 1795719836908,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx85y7",
+      "tipo": "page_view",
+      "timestamp": 1795719836959,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "titulo": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games"
+      }
+    },
+    {
+      "sessao": "sess_mwxx85y7",
+      "tipo": "scroll",
+      "timestamp": 1795719836991,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx85y7",
+      "tipo": "exit",
+      "timestamp": 1795719837033,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx866z",
+      "tipo": "page_view",
+      "timestamp": 1795719837275,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "titulo": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games"
+      }
+    },
+    {
+      "sessao": "sess_mwxx866z",
+      "tipo": "scroll",
+      "timestamp": 1795719837309,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx866z",
+      "tipo": "exit",
+      "timestamp": 1795719837566,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx86gd",
+      "tipo": "page_view",
+      "timestamp": 1795719837613,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "titulo": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games"
+      }
+    },
+    {
+      "sessao": "sess_mwxx86gd",
+      "tipo": "scroll",
+      "timestamp": 1795719837648,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx86gd",
+      "tipo": "exit",
+      "timestamp": 1795719837892,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "duracao_total_s": 0,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx86q5",
+      "tipo": "page_view",
+      "timestamp": 1795719837965,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "titulo": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games"
+      }
+    },
+    {
+      "sessao": "sess_mwxx86q5",
+      "tipo": "scroll",
+      "timestamp": 1795719838067,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx86q5",
+      "tipo": "click",
+      "timestamp": 1795719849266,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "x": 509,
+        "y": 527,
+        "scrollY": 1607
+      }
+    },
+    {
+      "sessao": "sess_mwxx86q5",
+      "tipo": "time_on_section",
+      "timestamp": 1795719851846,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1140,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 14
+      }
+    },
+    {
+      "sessao": "sess_mwxx86q5",
+      "tipo": "time_on_section",
+      "timestamp": 1795719852147,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 730,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx86q5",
+      "tipo": "time_on_section",
+      "timestamp": 1795719852212,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 274,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx86q5",
+      "tipo": "cta_click",
+      "timestamp": 1795719853635,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 0,
+      "dados": {
+        "track": "cta-topo",
+        "texto": "Garantir Jogo",
+        "x": 1123,
+        "y": 52
+      }
+    },
+    {
+      "sessao": "sess_mwxx86q5",
+      "tipo": "click",
+      "timestamp": 1795719853636,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#destaques",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 0,
+      "dados": {
+        "x": 1123,
+        "y": 52,
+        "scrollY": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx86q5",
+      "tipo": "time_on_section",
+      "timestamp": 1795719853723,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 86,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 2
+      }
+    },
+    {
+      "sessao": "sess_mwxx86q5",
+      "tipo": "time_on_section",
+      "timestamp": 1795719853789,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 518,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx86q5",
+      "tipo": "time_on_section",
+      "timestamp": 1795719853906,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1116,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx86q5",
+      "tipo": "exit",
+      "timestamp": 1795719855484,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {
+        "duracao_total_s": 18,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx8ka0",
+      "tipo": "page_view",
+      "timestamp": 1795719855529,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {
+        "titulo": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games"
+      }
+    },
+    {
+      "sessao": "sess_mwxx8ka0",
+      "tipo": "scroll",
+      "timestamp": 1795719857981,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1601,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx8ka0",
+      "tipo": "click",
+      "timestamp": 1795719868507,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "x": 1103,
+        "y": 395,
+        "scrollY": 1607
+      }
+    },
+    {
+      "sessao": "sess_mwxx8ka0",
+      "tipo": "exit",
+      "timestamp": 1795719880822,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "duracao_total_s": 25,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx93tv",
+      "tipo": "page_view",
+      "timestamp": 1795719880867,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "titulo": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games"
+      }
+    },
+    {
+      "sessao": "sess_mwxx93tv",
+      "tipo": "scroll",
+      "timestamp": 1795719880895,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx93tv",
+      "tipo": "exit",
+      "timestamp": 1795719891512,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "duracao_total_s": 11,
+        "scroll_max": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx9c39",
+      "tipo": "page_view",
+      "timestamp": 1795719891574,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "titulo": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games"
+      }
+    },
+    {
+      "sessao": "sess_mwxx9c39",
+      "tipo": "scroll",
+      "timestamp": 1795719891606,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx9c39",
+      "tipo": "time_on_section",
+      "timestamp": 1795719894310,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1129,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 3
+      }
+    },
+    {
+      "sessao": "sess_mwxx9c39",
+      "tipo": "cta_click",
+      "timestamp": 1795719894866,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1007,
+      "dados": {
+        "track": "logo",
+        "texto": "G\n        GigaTech Games",
+        "x": 291,
+        "y": 38
+      }
+    },
+    {
+      "sessao": "sess_mwxx9c39",
+      "tipo": "click",
+      "timestamp": 1795719894867,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1007,
+      "dados": {
+        "x": 291,
+        "y": 38,
+        "scrollY": 1007
+      }
+    },
+    {
+      "sessao": "sess_mwxx9c39",
+      "tipo": "time_on_section",
+      "timestamp": 1795719894988,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 721,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxx9c39",
+      "tipo": "time_on_section",
+      "timestamp": 1795719895054,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 323,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx9c39",
+      "tipo": "time_on_section",
+      "timestamp": 1795719895428,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 175,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx9c39",
+      "tipo": "time_on_section",
+      "timestamp": 1795719895477,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 607,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx9c39",
+      "tipo": "time_on_section",
+      "timestamp": 1795719895777,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1225,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx9c39",
+      "tipo": "click",
+      "timestamp": 1795719899417,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "x": 611,
+        "y": 88,
+        "scrollY": 1607
+      }
+    },
+    {
+      "sessao": "sess_mwxx9c39",
+      "tipo": "click",
+      "timestamp": 1795719899421,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "x": 611,
+        "y": 88,
+        "scrollY": 1607
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "page_view",
+      "timestamp": 1795719917943,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 0,
+      "dados": {
+        "titulo": "Mídia Física ou Jogo Digital: Qual Vale Mais a Pena? | GigaTech Games"
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "time_on_section",
+      "timestamp": 1795719919035,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 99,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "time_on_section",
+      "timestamp": 1795719919109,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 645,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "scroll",
+      "timestamp": 1795719919142,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 797,
+      "dados": {
+        "profundidade": 50
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "time_on_section",
+      "timestamp": 1795719919575,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1254,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "scroll",
+      "timestamp": 1795719919958,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1600,
+      "dados": {
+        "profundidade": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "time_on_section",
+      "timestamp": 1795720403308,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1162,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 484
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "time_on_section",
+      "timestamp": 1795720403443,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 720,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "time_on_section",
+      "timestamp": 1795720403592,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 0,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720527098,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 0,
+      "dados": {
+        "x": 1201,
+        "y": 163,
+        "scrollY": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "time_on_section",
+      "timestamp": 1795720531991,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 78,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 128
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "time_on_section",
+      "timestamp": 1795720532724,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 57,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 1
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "time_on_section",
+      "timestamp": 1795720533641,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 530,
+      "dados": {
+        "secao": "destaques",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "time_on_section",
+      "timestamp": 1795720535557,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 499,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 2
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720723312,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 100,
+      "dados": {
+        "x": 624,
+        "y": 226,
+        "scrollY": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "cta_click",
+      "timestamp": 1795720726104,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 100,
+      "dados": {
+        "track": "cta-topo",
+        "texto": "Garantir Jogo",
+        "x": 1099,
+        "y": 41
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720726104,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 100,
+      "dados": {
+        "x": 1099,
+        "y": 41,
+        "scrollY": 100
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "time_on_section",
+      "timestamp": 1795720726225,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 340,
+      "dados": {
+        "secao": "hero",
+        "duracao_s": 191
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "time_on_section",
+      "timestamp": 1795720726358,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1119,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 0
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720728815,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {
+        "x": 640,
+        "y": 239,
+        "scrollY": 1404
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "form_start",
+      "timestamp": 1795720731686,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {}
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720745391,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {
+        "x": 1175,
+        "y": 110,
+        "scrollY": 1404
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720745984,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {
+        "x": 1077,
+        "y": 153,
+        "scrollY": 1404
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720755895,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {
+        "x": 800,
+        "y": 233,
+        "scrollY": 1404
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720759239,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {
+        "x": 636,
+        "y": 314,
+        "scrollY": 1404
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720768672,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {
+        "x": 134,
+        "y": 302,
+        "scrollY": 1404
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720778079,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {
+        "x": 752,
+        "y": 332,
+        "scrollY": 1404
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720818239,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {
+        "x": 793,
+        "y": 325,
+        "scrollY": 1404
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720819399,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {
+        "x": 812,
+        "y": 413,
+        "scrollY": 1404
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720820703,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {
+        "x": 776,
+        "y": 391,
+        "scrollY": 1404
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720834222,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {
+        "x": 776,
+        "y": 395,
+        "scrollY": 1404
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720836737,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {
+        "x": 430,
+        "y": 383,
+        "scrollY": 1404
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720837479,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1404,
+      "dados": {
+        "x": 1036,
+        "y": 368,
+        "scrollY": 1404
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720838774,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "x": 753,
+        "y": 277,
+        "scrollY": 1607
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720840802,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "x": 430,
+        "y": 262,
+        "scrollY": 1607
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720841199,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "x": 725,
+        "y": 371,
+        "scrollY": 1607
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "cta_click",
+      "timestamp": 1795720868424,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "track": "form-submit",
+        "texto": "Garantir cupom GIGAGAMER10\n             ",
+        "x": 809,
+        "y": 451
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720868425,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "x": 809,
+        "y": 451,
+        "scrollY": 1607
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "form_submit",
+      "timestamp": 1795720868429,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1607,
+      "dados": {
+        "nome_mascarado": "Laura ***",
+        "email_mascarado": "la***@gmail.com",
+        "telefone_mascarado": "—",
+        "servico": "Cupons, Promoções & Comunidade",
+        "persona_hint": "cliente",
+        "tem_mensagem": true,
+        "tamanho_mensagem": 39
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "time_on_section",
+      "timestamp": 1795720870022,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1154,
+      "dados": {
+        "secao": "contato",
+        "duracao_s": 144
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "time_on_section",
+      "timestamp": 1795720871972,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1253,
+      "dados": {
+        "secao": "conteudo",
+        "duracao_s": 2
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720875277,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1507,
+      "dados": {
+        "x": 731,
+        "y": 128,
+        "scrollY": 1507
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720884566,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1407,
+      "dados": {
+        "x": 717,
+        "y": 309,
+        "scrollY": 1407
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720886174,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1407,
+      "dados": {
+        "x": 816,
+        "y": 222,
+        "scrollY": 1407
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720897878,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1407,
+      "dados": {
+        "x": 725,
+        "y": 310,
+        "scrollY": 1407
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720908743,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1407,
+      "dados": {
+        "x": 812,
+        "y": 394,
+        "scrollY": 1407
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720909553,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1407,
+      "dados": {
+        "x": 430,
+        "y": 380,
+        "scrollY": 1407
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720910790,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1664,
+      "dados": {
+        "x": 739,
+        "y": 214,
+        "scrollY": 1664
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720912560,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1664,
+      "dados": {
+        "x": 430,
+        "y": 205,
+        "scrollY": 1664
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720912909,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1664,
+      "dados": {
+        "x": 715,
+        "y": 311,
+        "scrollY": 1664
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "cta_click",
+      "timestamp": 1795720949350,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1664,
+      "dados": {
+        "track": "form-submit",
+        "texto": "Garantir cupom GIGAGAMER10\n             ",
+        "x": 808,
+        "y": 404
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720949352,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1664,
+      "dados": {
+        "x": 808,
+        "y": 404,
+        "scrollY": 1664
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "form_submit",
+      "timestamp": 1795720949354,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1664,
+      "dados": {
+        "nome_mascarado": "Kaio ***",
+        "email_mascarado": "ka***@gmail.com",
+        "telefone_mascarado": "—",
+        "servico": "Mídia Física & Consoles",
+        "persona_hint": "estudante",
+        "tem_mensagem": true,
+        "tamanho_mensagem": 40
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720950502,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1364,
+      "dados": {
+        "x": 769,
+        "y": 286,
+        "scrollY": 1364
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720973775,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1364,
+      "dados": {
+        "x": 844,
+        "y": 367,
+        "scrollY": 1364
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720984280,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1464,
+      "dados": {
+        "x": 797,
+        "y": 344,
+        "scrollY": 1464
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720985432,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1464,
+      "dados": {
+        "x": 430,
+        "y": 323,
+        "scrollY": 1464
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720986053,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1464,
+      "dados": {
+        "x": 742,
+        "y": 419,
+        "scrollY": 1464
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720991009,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1464,
+      "dados": {
+        "x": 430,
+        "y": 405,
+        "scrollY": 1464
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795720991397,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1464,
+      "dados": {
+        "x": 725,
+        "y": 502,
+        "scrollY": 1464
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "cta_click",
+      "timestamp": 1795721012199,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1664,
+      "dados": {
+        "track": "form-submit",
+        "texto": "Garantir cupom GIGAGAMER10\n             ",
+        "x": 838,
+        "y": 395
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721012201,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1664,
+      "dados": {
+        "x": 838,
+        "y": 395,
+        "scrollY": 1664
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "form_submit",
+      "timestamp": 1795721012203,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1664,
+      "dados": {
+        "nome_mascarado": "Ariana ***",
+        "email_mascarado": "ar***@gmail.com",
+        "telefone_mascarado": "—",
+        "servico": "Periféricos & Setup Custo-Benefício",
+        "persona_hint": "cliente",
+        "tem_mensagem": true,
+        "tamanho_mensagem": 37
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721015500,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1264,
+      "dados": {
+        "x": 677,
+        "y": 380,
+        "scrollY": 1264
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721042334,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1364,
+      "dados": {
+        "x": 752,
+        "y": 352,
+        "scrollY": 1364
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721059349,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1564,
+      "dados": {
+        "x": 736,
+        "y": 246,
+        "scrollY": 1564
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721062048,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1564,
+      "dados": {
+        "x": 430,
+        "y": 223,
+        "scrollY": 1564
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721062453,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1564,
+      "dados": {
+        "x": 713,
+        "y": 335,
+        "scrollY": 1564
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721063400,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1564,
+      "dados": {
+        "x": 430,
+        "y": 305,
+        "scrollY": 1564
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721063813,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1564,
+      "dados": {
+        "x": 696,
+        "y": 422,
+        "scrollY": 1564
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "cta_click",
+      "timestamp": 1795721077958,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1564,
+      "dados": {
+        "track": "form-submit",
+        "texto": "Garantir cupom GIGAGAMER10\n             ",
+        "x": 746,
+        "y": 508
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721077960,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1564,
+      "dados": {
+        "x": 746,
+        "y": 508,
+        "scrollY": 1564
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "form_submit",
+      "timestamp": 1795721077963,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1564,
+      "dados": {
+        "nome_mascarado": "Jaime ***",
+        "email_mascarado": "ul***@gmail.com",
+        "telefone_mascarado": "—",
+        "servico": "Mídia Física & Consoles",
+        "persona_hint": "voluntario",
+        "tem_mensagem": true,
+        "tamanho_mensagem": 59
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721080501,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1364,
+      "dados": {
+        "x": 639,
+        "y": 275,
+        "scrollY": 1364
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721174198,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1364,
+      "dados": {
+        "x": 614,
+        "y": 351,
+        "scrollY": 1364
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721189685,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1464,
+      "dados": {
+        "x": 561,
+        "y": 339,
+        "scrollY": 1464
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721190844,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1464,
+      "dados": {
+        "x": 581,
+        "y": 341,
+        "scrollY": 1464
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721194470,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1464,
+      "dados": {
+        "x": 430,
+        "y": 323,
+        "scrollY": 1464
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721194885,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1464,
+      "dados": {
+        "x": 621,
+        "y": 433,
+        "scrollY": 1464
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721196884,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1464,
+      "dados": {
+        "x": 612,
+        "y": 422,
+        "scrollY": 1464
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721197428,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1464,
+      "dados": {
+        "x": 605,
+        "y": 514,
+        "scrollY": 1464
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "cta_click",
+      "timestamp": 1795721209429,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1664,
+      "dados": {
+        "track": "form-submit",
+        "texto": "Garantir cupom GIGAGAMER10\n             ",
+        "x": 714,
+        "y": 402
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "click",
+      "timestamp": 1795721209432,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1664,
+      "dados": {
+        "x": 714,
+        "y": 402,
+        "scrollY": 1664
+      }
+    },
+    {
+      "sessao": "sess_mwxx9wfq",
+      "tipo": "form_submit",
+      "timestamp": 1795721209434,
+      "url": "https://thiagogabriel-s.github.io/Adm_Web03/#contato",
+      "viewport": {
+        "w": 1366,
+        "h": 633
+      },
+      "scrollY": 1664,
+      "dados": {
+        "nome_mascarado": "Kleiton ***",
+        "email_mascarado": "kl***@gmail.com",
+        "telefone_mascarado": "—",
+        "servico": "Cupons, Promoções & Comunidade",
+        "persona_hint": "estudante",
+        "tem_mensagem": true,
+        "tamanho_mensagem": 42
+      }
+    }
+  ]
+}
